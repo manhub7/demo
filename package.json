@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manhub7/demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manhub7/demo/issues"
+  },
+  "homepage": "https://github.com/manhub7/demo#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
