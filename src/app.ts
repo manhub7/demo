@@ -1,1 +1,1 @@
-export const message = "Hello n8n okay jj"
+export const message = "Hello jj"
